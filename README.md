@@ -1,2 +1,3 @@
-![Diagram](diagram0.png)
----
+![netfilter](mikrotik.jpg "netfilter")
+
+![netfilter](netfilter.png "netfilter")
